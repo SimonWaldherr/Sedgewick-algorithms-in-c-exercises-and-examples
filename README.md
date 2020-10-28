@@ -1,19 +1,19 @@
-Algorithms in C
-================================================
-My takes of **Algorithms in C - Fundamentals, Data Structures, Sorting, Searching (3rd Edition)** book by **Robert Sedgewick**.
+# Algorithms in C
+
+My takes of **[Algorithms in C - Fundamentals, Data Structures, Sorting, Searching (3rd Edition)](https://www.amazon.com/-/de/dp/0201314525)** book by **Robert Sedgewick**.
 It contains code for both the **examples** and the **exercises**.
 
-###Organization
+## Organization
 
 Each *dir* has only the code from the specific chapter.
 
 Each *dir* contains 2 *subdirs*, one with the code for the examples and one with answers for the exercises.
 
-###Compiling
+## Compiling
 
 All the programs were compiled with the `-std=c99` flag and should work out of the box.
 
-###Missing & Other 
+## Missing & Other 
 
 Some of the answers for particular exercises are missing.
 I have omitted exercises which require only a explanatory type of solution or for which I found no value in solving.
